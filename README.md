@@ -1,4 +1,4 @@
-Learning financial data science, one step at a time.
+Financial engineering, probabilistic systems analysis
 
 Check out my Twitter!
 https://twitter.com/a_devrent
